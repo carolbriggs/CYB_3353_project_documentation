@@ -1,4 +1,9 @@
-# There are currently two porject documentations avaliable on the github page! Please choose which project you are interested in below and the link will take you to the proper documentation!
+# There are currently two project documentations avaliable on the github page
 
-## Arch Linux Install
-[(
+## Please choose which project you are interested in below and the link will take you to the proper documentation!
+
+### Arch Linux Install
+[()]
+
+### Docker/Docker Compose
+[()]
